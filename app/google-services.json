@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753952913915",
+    "project_id": "neat-roots-wechat-eca40",
+    "storage_bucket": "neat-roots-wechat-eca40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753952913915:android:faaa2b83769966ebfef35e",
+        "android_client_info": {
+          "package_name": "pec.cse18cs1031.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753952913915-h5b1dbik594av2ji9ovukvpp98iovu6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEd92W6ylRqi71DWfKQC0zhcvBGJbNgNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753952913915-h5b1dbik594av2ji9ovukvpp98iovu6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
